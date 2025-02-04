@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Xeno725
 - 👀 I’m interested in Data Structures & Algorithms and Machine learning
-- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me : satyamshivam843@gmail.com
 
 <!---
